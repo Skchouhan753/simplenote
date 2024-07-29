@@ -1,0 +1,17 @@
+footer {
+    background: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-links{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+  }
+  .autom{
+    margin-left: 60px;
+    /* border: 1px solid red; */
+  }
